@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CVpcb (20090216-final) date = Fri 04 Feb 2011 03:28:29 PM PST
+
+BeginCmp
+TimeStamp = /4D4C775D;
+Reference = C1;
+ValeurCmp = 0.33_uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D4C4FFB;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D4C76B0;
+Reference = P1;
+ValeurCmp = CONN_2X2;
+IdModule  = PIN_ARRAY_2X2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D4C5475;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D4C72F7;
+Reference = R1;
+ValeurCmp = 220;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D4C7738;
+Reference = R2;
+ValeurCmp = 68;
+IdModule  = R4;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D4C66DD;
+Reference = R3;
+ValeurCmp = 5K;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D4C66F0;
+Reference = R4;
+ValeurCmp = 150;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D4C540F;
+Reference = U1;
+ValeurCmp = ARDUINO_NANO;
+IdModule  = arduino_nano;
+EndCmp
+
+EndListe

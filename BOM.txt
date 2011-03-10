@@ -1,0 +1,15 @@
+part                   description                               vendor                 Qty
+-------------------------------------------------------------------------------------------
+C1                 0.33uF cerm. cap., 5mm lead spac.     Digikey    445-5263-ND         1
+D1                 Red led                               Jameco     202471              1
+P1                 2x2 connector                         Jameco     109516              1
+P2                 4x1 connector                         Digi-Key   A1922-ND            1
+R1                 220 Ohm resistor, 1/8W                Digi Key   CF18JT220RCT-ND     1
+R2                 68 Ohm resistor, 1/4W                 Jameco     661221              1
+R3                 5.6K Ohm resistor, 1/8W               Digi-Key   CF18JT5K60CT-ND     1
+R4                 150 Ohm resistor, 1/8W                Digi-Key   CF18JT150RCT-ND     1
+U1                 Arduino Nano                          Jameco     2121148             1
+
+
+
+
