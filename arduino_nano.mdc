@@ -1,0 +1,27 @@
+PCBNEW-LibDoc----V1  Sun 27 Mar 2011 05:35:10 PM PDT
+#
+$MODULE PIN_ARRAY_3X1_MOD
+Li PIN_ARRAY_3X1_MOD
+Cd Connecteur 3 pins
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE JACK_ALIM_MOD
+Li JACK_ALIM_MOD
+Cd module 1 pin (ou trou mecanique de percage)
+Kw CONN JACK
+$EndMODULE
+#
+$MODULE DIP-16__300
+Li DIP-16__300
+Cd 16 pins DIL package, round pads
+Kw DIL
+$EndMODULE
+#
+$MODULE DIP-6__300
+Li DIP-6__300
+Cd 6 pins DIL package, round pads
+Kw DIL
+$EndMODULE
+#
+$EndLIBDOC

@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CVpcb (20090216-final) date = Fri 04 Feb 2011 03:28:29 PM PST
+Cmp-Mod V01 Created by CVpcb (20090216-final) date = Sun 27 Mar 2011 04:40:06 PM PDT
 
 BeginCmp
 TimeStamp = /4D4C775D;
@@ -29,6 +29,27 @@ IdModule  = PIN_ARRAY_4X1;
 EndCmp
 
 BeginCmp
+TimeStamp = /4D8FACF2;
+Reference = P3;
+ValeurCmp = CONN_2;
+IdModule  = DCJACK_2PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D8FA051;
+Reference = P4;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D8FA059;
+Reference = P5;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4X1;
+EndCmp
+
+BeginCmp
 TimeStamp = /4D4C72F7;
 Reference = R1;
 ValeurCmp = 220;
@@ -54,6 +75,20 @@ TimeStamp = /4D4C66F0;
 Reference = R4;
 ValeurCmp = 150;
 IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D8FAC52;
+Reference = R5;
+ValeurCmp = 5k;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D8FA092;
+Reference = RV1;
+ValeurCmp = 10k;
+IdModule  = POT296;
 EndCmp
 
 BeginCmp

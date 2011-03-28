@@ -1,13 +1,18 @@
-Drill report for /home/jo/work/kicad/nano_photogate/nano_photogate.brd
-Created on Fri 04 Feb 2011 06:14:54 PM PST
+Drill report for /home/wbd/work/iorodeo/products/nano_photogate_board/nano_photogate.brd
+Created on Sun 27 Mar 2011 05:59:02 PM PDT
 Selected Drill Unit: Imperial (")
 
 Drill report for through holes :
-T1  0.032"  0.81mm  (12 holes)
-T2  0.039"  0.99mm  (30 holes)
-T3  0.040"  1.02mm  (8 holes)
-T4  0.120"  3.05mm  (4 holes)
+T1  0.025"  0.64mm  (1 hole)
+T2  0.032"  0.81mm  (14 holes)
+T3  0.039"  0.99mm  (30 holes)
+T4  0.040"  1.02mm  (16 holes)
+T5  0.051"  1.30mm  (3 holes)
+T6  0.102"  2.60mm  (1 hole)
+T7  0.110"  2.79mm  (6 holes)
+T8  0.118"  3.00mm  (1 hole)
+T9  0.120"  3.05mm  (4 holes)
 
-total holes count 54
+total holes count 76
 
 
