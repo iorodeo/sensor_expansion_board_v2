@@ -1,15 +1,33 @@
-part                   description                               vendor                 Qty
--------------------------------------------------------------------------------------------
-C1                 0.33uF cerm. cap., 5mm lead spac.     Digikey    445-5263-ND         1
-D1                 Red led                               Jameco     202471              1
-P1                 2x2 connector                         Jameco     109516              1
-P2                 4x1 connector                         Digi-Key   A1922-ND            1
-R1                 220 Ohm resistor, 1/8W                Digi Key   CF18JT220RCT-ND     1
-R2                 68 Ohm resistor, 1/4W                 Jameco     661221              1
-R3                 5.6K Ohm resistor, 1/8W               Digi-Key   CF18JT5K60CT-ND     1
-R4                 150 Ohm resistor, 1/8W                Digi-Key   CF18JT150RCT-ND     1
-U1                 Arduino Nano                          Jameco     2121148             1
+Bill of materials: Nano photogate circuit board
+					
+Quantity	Description	                Vendor	    Part #	        Price	Subtotal
+--------------------------------------------------------------------------------------------------
+1	        Red LED	                    Jameco 	    202471	        $0.10	$0.10
+1	        0.33 uF capacitor	        Jameco 	    544930	        $0.12	$0.12
+1	        2x2 connector	            Jameco 	    109516	        $0.29	$0.29
+1	        68 Ohm resistor, 1/4W	    Jameco 	    661221	        $0.03	$0.03
+1	        4x1 connector	            Digikey	    A1922-ND	    $0.16	$0.16
+1	        220 Ohm resistor, 1/8W	    Digikey	    CF18JT220RCT-ND	$0.07	$0.07
+1	        5.6K Ohm resistor, 1/8W     Digikey	    CF18JT5K60CT-ND	$0.07	$0.07
+1	        150 Ohm resistor, 1/8W	    Digikey	    CF18JT150RCT-ND	$0.07	$0.07
+2	        15-pos connector receptacle	Digikey	    SAM1222-15-ND	$1.87	$3.74
+		
 
 
+Bill of materials: Nano photogate circuit board with LCD display
 
+Quantity	Description	                Vendor	    Part #	        Price	Subtotal
+--------------------------------------------------------------------------------------------------
+1	        Red LED	                    Jameco 	    202471	        $0.10	$0.10
+1	        0.33 uF capacitor	        Jameco 	    544930	        $0.12	$0.12
+1	        2x2 connector	            Jameco 	    109516	        $0.29	$0.29
+1	        68 Ohm resistor, 1/4W	    Jameco 	    661221	        $0.03	$0.03
+3	        4x1 connector	            Digikey	    A1922-ND	    $0.16	$0.16
+1	        220 Ohm resistor, 1/8W	    Digikey	    CF18JT220RCT-ND	$0.07	$0.07
+2	        5.6K Ohm resistor, 1/8W     Digikey	    CF18JT5K60CT-ND	$0.07	$0.07
+1	        150 Ohm resistor, 1/8W	    Digikey	    CF18JT150RCT-ND	$0.07	$0.07
+2	        15-pos connector receptacle	Digikey	    SAM1222-15-ND	$1.87	$3.74
+1	        2.1mm jack	                Jameco 	    137673	        $0.39	$0.39
+1	        6 pos right angle connector	Digi-key	3M9479-ND	    $0.28	$0.28
+1	        Potentiometer	            Digi-key	CT2264-ND	    $1.29	$1.29
 
